@@ -1,7 +1,7 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 ```
 NAME: MOHAMMED FAIZAL J
-## REG NO: 212222100027
+REG NO: 212222100027
 ```
 ## Aim:
 To move the files between virtual machine.
